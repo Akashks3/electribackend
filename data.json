@@ -9,15 +9,6 @@
     "measurementsArea": ""
   },
   {
-    "id": "45be1c22-0e4e-493b-868e-8164fc436beb",
-    "name": "(Pendant Bulb holder bakelite)",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbnUTIfVh8dhQI-iT-BlYvgSRb_IWgKIyVsw&s",
-    "measurementsarea": "",
-    "qty": "1",
-    "checked": false,
-    "measurementsArea": ""
-  },
-  {
     "id": "2f25e5d0-af92-45d3-ba67-46396bdc1663",
     "name": "(Pendant switch)",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiwGRt-9HROk0O6z5toPXKCRM1pomQsFu0g&s",
@@ -27,29 +18,12 @@
     "measurementsArea": ""
   },
   {
-    "id": "d5e99ee9-7386-4520-a791-ec00a1a7e580",
-    "name": "Pendant Bulb holder brass",
-    "measurementsArea": "0",
-    "qty": "0",
-    "image": "https://5.imimg.com/data5/SELLER/Default/2021/5/MR/OC/OQ/612086/pendent-lamp-holder-heavy.JPG",
-    "checked": false
-  },
-  {
     "id": "2d6902d8-cc58-47b1-92a5-725d36936249",
     "name": "(Tube Starter 20-65W)",
     "image": "https://m.media-amazon.com/images/I/21DTbZTtzzL._AC_UF350,350_QL80_.jpg",
     "measurementsarea": "",
     "qty": 0,
     "checked": false
-  },
-  {
-    "id": "45be1c22-0e4e-493b-868e-8164fc436beb",
-    "name": "(Pendant Bulb holder bakelite)",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbnUTIfVh8dhQI-iT-BlYvgSRb_IWgKIyVsw&s",
-    "measurementsarea": "",
-    "qty": "1",
-    "checked": false,
-    "measurementsArea": ""
   },
   {
     "id": "783549f0-1126-4917-942f-3fffa8f25b76",
@@ -1268,11 +1242,11 @@
     "checked": false
   },
   {
-    "id": "c9938563-c438-4077-9b6b-f08b0a0f1b5d",
-    "name": "(meter panel board metal)",
-    "image": "https://mykit.in/crm/public/uploads/product_images_500x500/tpncubiclemeter.jpg",
-    "measurementsarea": "",
-    "qty": 0,
+    "id": "0135619b-5478-43c1-80d2-00bd3ce75fe8",
+    "name": "Pendant Bulb holder brass",
+    "measurementsArea": "0",
+    "qty": "0",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/5/MR/OC/OQ/612086/pendent-lamp-holder-heavy.JPG",
     "checked": false
   }
 ]
